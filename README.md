@@ -1,1 +1,5 @@
-# react-ts-dev-env
+# React & TypeScript Without CRA
+- React
+- TypeScript
+- Webpack & Babel
+- ESLint & Prettier
